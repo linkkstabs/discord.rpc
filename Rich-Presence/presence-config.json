@@ -1,18 +1,18 @@
 {
-    "applicationId": "Your-Application-ID",
-    "activityType": "STREAMING", 
-    "url": "https://www.twitch.tv/zensware",
-    "state": "state",
-    "name": "name",
-    "details": "details",
-    "largeImage": "image-address",
-    "largeImageText": "image-text",
-    "smallImage": "image-address",
-    "smallImageText": "image-text",
+    "applicationId": "1298676906941743197",
+    "activityType": "Watching", 
+    "url": "https://www.twitch.tv/linkkstabs",
+    "state": "Serving Lord Rimuru..",
+    "name": "Forest of Jura",
+    "details": "Nation of Tempest",
+    "largeImage": "https://media.discordapp.net/attachments/1181461047736029206/1298685483546841088/tumblr_ddfd0c1510a5918a845f37d667721de6_0975f652_400.webp?ex=67b55edb&is=67b40d5b&hm=7c5c61423bfcfd9aae0422d4172e7df60d625071e009804732116745eea2d287&=&animated=true&width=298&height=375",
+    "largeImageText": "Diablo",
+    "smallImage": "https://media.discordapp.net/attachments/1181461047736029206/1298685367519543326/tensura-rimuru.gif?ex=67b55ec0&is=67b40d40&hm=698daa36bce0c4f96a661bd056af2c6ac7a8dc9c1aca3cb3a12dbe218af17b2d&=&width=500&height=281",
+    "smallImageText": "Rimuru Tempest",
     "buttons": [
       {
-        "label": "My portfolio",
-        "url": "https://www.zensware.com/"
+        "label": "Carrd",
+        "url": "https://mrprocrastinatorsensei.carrd.co/"
       }
     ]
   }
